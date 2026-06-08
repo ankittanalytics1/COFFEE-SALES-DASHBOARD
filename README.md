@@ -43,6 +43,6 @@ Business Questions
 - Insight Generation 
 
 ## Dashboard
-<img width="1266" height="532" alt="SCREENSHOT" src="https://github.com/user-attachments/assets/9a9a763c-eefd-4e41-8626-a80547479c35" />
+<img src="https://github.com/user-attachments/assets/9a9a763c-eefd-4e41-8626-a80547479c35" />
 
 
