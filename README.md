@@ -1,4 +1,4 @@
-# COFFEE SALES DASHBOARD ANALYSIS (Interactive Dashboard created using MS Excel)
+# COFFEE SALES ANALYSIS (Interactive Dashboard created using MS Excel)
 
 ## Project Objective:
 
