@@ -19,6 +19,7 @@ Business Questions
 - How do sales and orders vary across weekdays? 
 - Which cup size is ordered most frequently? 
 
+##Dashboard Interaction
 - <a href="https://github.com/ankittanalytics1/COFFEE-SALES-DASHBOARD/blob/main/COFFEE%20SALES%20DASHBOARD.xlsx(https://github.com/ankittanalytics1/COFFEE-SALES-DASHBOARD/blob/main/SCREENSHOT.png)"> COFFEE SALES DASHBOARD </a>
 
 ## KPIs Tracked
