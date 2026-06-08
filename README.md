@@ -45,4 +45,17 @@ Business Questions
 ## Dashboard
 <img src="https://github.com/user-attachments/assets/9a9a763c-eefd-4e41-8626-a80547479c35" />
 
+## Project Insights 
+-	Total sales reached ₹698.8K, indicating strong overall business performance.
+-	The coffee shop recorded 149K+ customer visits (footfall) during the analyzed period.
+-	Sales were highest during the morning hours, highlighting peak customer activity.
+-	Hot Chocolate, Barista Espresso, and Brewed Chai Tea emerged as top-selling products.
+-	Certain store locations generated significantly higher sales and footfall than others.
+-	Large and Regular-sized beverages accounted for the majority of customer orders.
+-	Customer purchasing patterns varied across weekdays, providing opportunities for targeted promotions and staffing optimization.
+
+## Final Conclusion
+The Coffee Sales Dashboard provides a comprehensive view of sales performance, customer behavior, and product trends. By analyzing key KPIs, peak ordering times, top-selling products, and store-wise performance, the dashboard helps identify growth opportunities and supports data-driven business decisions. The insights gained can be used to improve customer experience, optimize operations, and drive future sales growth.
+
+
 
