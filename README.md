@@ -23,24 +23,24 @@ Business Questions
 - <a href="https://github.com/ankittanalytics1/COFFEE-SALES-DASHBOARD/blob/main/COFFEE%20SALES%20DASHBOARD.xlsx(https://github.com/ankittanalytics1/COFFEE-SALES-DASHBOARD/blob/main/SCREENSHOT.png)"> COFFEE SALES DASHBOARD </a>
 
 ## KPIs Tracked
-•	Total Sales 
-•	Total Footfall 
-•	Average Bill per Person 
-•	Average Order per Person 
-•	Sales by Product Category 
-•	Top 5 Products by Sales 
-•	Sales by Store Location 
-•	Orders by Hour 
-•	Orders by Weekday 
-•	Order Distribution by Size
+- Total Sales
+- Total Footfall
+- Average Bill per Person
+- Average Order per Person
+- Sales by Product Category
+- Top 5 Products by Sales
+- Sales by Store Location
+- Orders by Hour
+- Orders by Weekday
+- Order Distribution by Size
 
 ## Process
-•	Data Cleaning & Validation 
-•	Pivot Table Creation 
-•	KPI Development 
-•	Dashboard Design 
-•	Slicer Integration 
-•	Insight Generation 
+- Data Cleaning & Validation
+- Pivot Table Creation
+- KPI Development
+- Dashboard Design
+- Slicer Integration
+- Insight Generation 
 
 <img width="1266" height="532" alt="SCREENSHOT" src="https://github.com/user-attachments/assets/9a9a763c-eefd-4e41-8626-a80547479c35" />
 
