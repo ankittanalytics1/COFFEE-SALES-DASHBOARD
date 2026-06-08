@@ -7,4 +7,4 @@ Built a Coffee Sales Analytics Dashboard in Excel to track sales KPIs, identify 
 ## DataSet Used:
 - <a href="https://github.com/ankittanalytics1/COFFEE-SALES-DASHBOARD/blob/main/COFFEE%20SALES%20DASHBOARD.xlsx"> RAW DATASET </a>
 
-- <a href="https://github.com/ankittanalytics1/COFFEE-SALES-DASHBOARD/blob/main/COFFEE%20SALES%20DASHBOARD.xlsx"> RAW DATASET </a>
+- <a href="[https://github.com/ankittanalytics1/COFFEE-SALES-DASHBOARD/blob/main/COFFEE%20SALES%20DASHBOARD.xlsx](https://github.com/ankittanalytics1/COFFEE-SALES-DASHBOARD/blob/main/SCREENSHOT.png)"> COFFEE SALES DASHBOARD </a>
